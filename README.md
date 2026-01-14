@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Pranav(@SolutionsByPranav).
-- 👀 I’m interested in developing solutions.
-- 🌱 I’m currently developing projects using the MERN stack.
-- 💞️ I’m looking to collaborate on any projects that can help me grow as a developer.
